@@ -1,0 +1,32 @@
+.bttn{
+    background-color: orangered !important;
+    border-radius: 30px;
+    border:none
+}
+.bttn:hover{
+    background-color:transparent !important;
+    border:solid;
+    border-color:orangered ;
+    color: #000;
+
+}
+.bg{
+    background-image: url('./images/Desktop.png');
+    background-repeat: no-repeat;
+    position: relative;
+}
+.bgg{
+    background-image: url('./images/Desktop1.png');
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+
+.section3{
+    margin-top:0;
+    padding-top:0;
+    /* background-image: url('./images/Desktop.png'); */
+    background-color:  blue;
+    opacity: 0.9;
+
+}
